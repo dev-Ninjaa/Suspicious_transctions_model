@@ -41,7 +41,7 @@ This project provides a machine learning pipeline for detecting suspicious (pote
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/dev-Ninjaa/Suspicious_transctions_model.git
    cd ml_models
    ```
 
